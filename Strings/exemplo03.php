@@ -1,6 +1,6 @@
 <?php
 
-$frase = "A repetição é mãe da retenção";
+$frase = "A Repetição é mãe da retenção";
 
 $q = strpos($frase,"mãe");
 
