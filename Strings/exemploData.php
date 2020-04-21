@@ -2,7 +2,7 @@
 	
 $dt = new DateTime();
 
-$periodo = new DateInterval("P15D");
+$periodo = new DateInterval("P10D");
 
 
 echo $dt->format("d/m/Y H:i:s");
